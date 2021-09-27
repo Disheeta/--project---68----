@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: serif;
+}
+
+.wel {
+    background-image: url(Xan0E2.jpg);
+}
+
+#logo {
+    height: 250px;
+}
+
+#thought {
+    font-size: 30px;
+    font-family: 'Lobster', ;
+}
+
+.Mission {
+    background-color: azure;
+    border: solid;
+}
+
+#V {
+    font-size: 20px;
+}
+#img{
+    width: 390px;
+    height: 450px;
+}
